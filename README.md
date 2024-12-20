@@ -21,7 +21,7 @@ Berikut adalah beberapa hasil uji coba yang telah dilakukan menggunakan Real-Cal
    
   ![image](https://github.com/user-attachments/assets/afcbb2cc-39d1-4086-baa1-2407939bc311)
 
-5. **Menghitung**: `0.05 / 5`    **Hasilnya Adalah**: `0.01`
+5. **Menghitung**: `5% / 5`    **Hasilnya Adalah**: `0.01`
    
   ![image](https://github.com/user-attachments/assets/14eefecb-e70f-4c17-9b46-765e6dc9e66a)
 
