@@ -15,15 +15,15 @@ Berikut adalah beberapa hasil uji coba yang telah dilakukan menggunakan Real-Cal
 
 3. **Menghitung**: `10000 - 9000` **Hasilnya Adalah**: `1000`
    
-   ![image](https://github.com/user-attachments/assets/aec9f760-9b34-4487-8553-429c5b1a482d)
+  ![image](https://github.com/user-attachments/assets/aec9f760-9b34-4487-8553-429c5b1a482d)
 
 4. **Menghitung**: `1000 + 1000` **Hasilnya Adalah**: `2000`
    
-   ![image](https://github.com/user-attachments/assets/afcbb2cc-39d1-4086-baa1-2407939bc311)
+  ![image](https://github.com/user-attachments/assets/afcbb2cc-39d1-4086-baa1-2407939bc311)
 
 5. **Menghitung**: `0.05 / 5`    **Hasilnya Adalah**: `0.01`
    
-   ![image](https://github.com/user-attachments/assets/14eefecb-e70f-4c17-9b46-765e6dc9e66a)
+  ![image](https://github.com/user-attachments/assets/14eefecb-e70f-4c17-9b46-765e6dc9e66a)
 
 ## 🎯 Fitur Utama
 - Operasi dasar matematika (+, -, *, /)
