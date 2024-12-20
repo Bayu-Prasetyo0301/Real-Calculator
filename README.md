@@ -5,31 +5,22 @@
 ## 📋 Hasil Uji Coba
 Berikut adalah beberapa hasil uji coba yang telah dilakukan menggunakan Real-Calculator:
 
-1. **Menghitung**: `500 / 5`       **Hasilnya Adalah**: `100`
+1. **Menghitung**: `500 / 5`      **Hasilnya Adalah**: `100`
    
-   ![image](https://github.com/user-attachments/assets/f2852d66-c7cc-4424-bc37-a31fbe4c5852)
-     
-   ![image](https://github.com/user-attachments/assets/2b0666a6-156a-404c-8887-14941b70572c)
+  ![image](https://github.com/user-attachments/assets/b550d096-0e3f-4b69-9272-a95d56bc19c9)
 
-3. **Menghitung**: `100 * 100`     **Hasilnya Adalah**: `10000`
-   ![image](https://github.com/user-attachments/assets/6bf48b0e-bb70-4dd9-b1da-a495ca08acba) 
-
-   ![image](https://github.com/user-attachments/assets/37f75530-d8ce-4592-8b1e-d02a72e541c5)
+2. **Menghitung**: `100 * 100`    **Hasilnya Adalah**: `10000`
    
-5. **Menghitung**: `10000 - 9000` **Hasilnya Adalah**: `1000`
-   ![image](https://github.com/user-attachments/assets/e724d9c4-f74e-4e9e-ab7b-f7200c76d991) 
+  ![image](https://github.com/user-attachments/assets/89b8c996-cc82-4306-8beb-7af63e772767)
 
-   ![image](https://github.com/user-attachments/assets/e29a2cb5-b956-4e73-8ea2-49afd9a028b8)
+3. **Menghitung**: `10000 - 9000` **Hasilnya Adalah**: `1000`
+   ![image](https://github.com/user-attachments/assets/aec9f760-9b34-4487-8553-429c5b1a482d)
 
-7. **Menghitung**: `1000 + 1000` **Hasilnya Adalah**: `2000`
-   ![image](https://github.com/user-attachments/assets/07ef9036-98bf-41bc-bfde-33587cff4312) 
+4. **Menghitung**: `1000 + 1000` **Hasilnya Adalah**: `2000`
+   ![image](https://github.com/user-attachments/assets/afcbb2cc-39d1-4086-baa1-2407939bc311)
 
-   ![image](https://github.com/user-attachments/assets/4cd16ea1-f1fe-4815-b4f8-b944ad7050bd)
-
-9. **Menghitung**: `0.05 / 5`    **Hasilnya Adalah**: `0.01`
-   ![image](https://github.com/user-attachments/assets/902b7f79-0ae8-4d89-bd26-cc2238d1f898)
-   
-   ![image](https://github.com/user-attachments/assets/ca3eeb8c-5092-4c90-9541-01665196b79d)
+5. **Menghitung**: `0.05 / 5`    **Hasilnya Adalah**: `0.01`
+   ![image](https://github.com/user-attachments/assets/14eefecb-e70f-4c17-9b46-765e6dc9e66a)
 
 ## 🎯 Fitur Utama
 - Operasi dasar matematika (+, -, *, /)
@@ -41,9 +32,8 @@ Berikut adalah beberapa hasil uji coba yang telah dilakukan menggunakan Real-Cal
    ```bash
    git clone https://github.com/Bayu-Prasetyo0301/Real-Calculator.git
    ```
-
 2. Buka file `index.html` di browser Anda.
-
+   
 3. Gunakan kalkulator untuk menghitung angka sesuai kebutuhan Anda.
 
 ## 📂 Struktur Proyek
